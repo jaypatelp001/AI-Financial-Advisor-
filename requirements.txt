@@ -1,0 +1,12 @@
+streamlit
+selenium
+pandas
+numpy
+plotly
+requests
+beautifulsoup4
+huggingface-hub
+transformers
+torch
+lxml
+webdriver-manager
