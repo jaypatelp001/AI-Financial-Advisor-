@@ -28,5 +28,24 @@ A **Smart Investment Advisor** built with **Streamlit**, **AI (Gemma Model)**, a
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/smart-investment-advisor.git
+git clone https://github.com/jaypatelp001/AI-Financial-Advisor
 cd smart-investment-advisor
+
+🎯 How It Works
+1️⃣ Enter your monthly savings.
+2️⃣ The AI will analyze and suggest investment strategies.
+3️⃣ The app scrapes live cryptocurrency data for the best investment options.
+4️⃣ If data scraping fails, AI generates alternative investment advice.
+5️⃣ Get real-time insights and visualized market trends.
+
+📸 UI Screenshots
+![Screenshot 2025-02-23 162806](https://github.com/user-attachments/assets/3a5b10cb-763b-49ac-b4fb-26e9db19f799)
+
+
+
+![Screenshot 2025-02-23 162823](https://github.com/user-attachments/assets/02309aa5-8351-423c-82df-c254c1310a60)
+
+
+![Screenshot 2025-02-23 162838](https://github.com/user-attachments/assets/f4767442-214f-4b47-817d-9e6196415938)
+
+
