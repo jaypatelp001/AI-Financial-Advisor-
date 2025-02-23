@@ -29,7 +29,7 @@ A **Smart Investment Advisor** built with **Streamlit**, **AI (Gemma Model)**, a
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/jaypatelp001/AI-Financial-Advisor
-cd smart-investment-advisor
+
 
 🎯 How It Works
 1️⃣ Enter your monthly savings.
